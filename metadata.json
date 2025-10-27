@@ -1,0 +1,5 @@
+{
+  "name": "Football Predictor AI V2",
+  "description": "An AI-powered application that uses Gemini with Google Search grounding to analyze up-to-date football data and predict match outcomes, including winner, total goals, and more.",
+  "requestFramePermissions": []
+}
